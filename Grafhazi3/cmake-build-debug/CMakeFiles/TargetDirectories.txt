@@ -1,0 +1,3 @@
+/home/tothhbalint/Grafika/Grafhazi3/cmake-build-debug/CMakeFiles/Skeleton.dir
+/home/tothhbalint/Grafika/Grafhazi3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tothhbalint/Grafika/Grafhazi3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

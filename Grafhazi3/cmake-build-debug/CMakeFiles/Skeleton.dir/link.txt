@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -pedantic -g CMakeFiles/Skeleton.dir/framework.cpp.o CMakeFiles/Skeleton.dir/Skeleton.cpp.o -o Skeleton  -lGL -lglut -lGLU -lGLEW 
